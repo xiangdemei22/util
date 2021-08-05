@@ -1,6 +1,6 @@
 <?php
 
-namespace xiangdemi\util;
+namespace util;
 
 class StringUtil {
     public static function strToUpper($str)
